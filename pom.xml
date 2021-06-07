@@ -10,6 +10,7 @@
 
     <modules>
         <module>service-discovery-registry</module>
+        <module>simple-discovery-client</module>
     </modules>
 
 </project>
