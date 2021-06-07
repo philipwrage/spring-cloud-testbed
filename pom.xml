@@ -11,6 +11,7 @@
     <modules>
         <module>service-discovery-registry</module>
         <module>simple-discovery-client</module>
+		<module>config-server</module>
     </modules>
 
 </project>
